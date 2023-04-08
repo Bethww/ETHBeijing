@@ -488,9 +488,11 @@ https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/EtherWatchdog.mp4
 * 目标：完成demo开发和展示
 * 是否招募队员：否
 # 30 PKUSZ Blockchain DAO
-* 简介：LSD中心化风险解决方案
-* 目标：产出研究分析报告和EIP
-* 是否招募队员：否
+* 项目名称：以太坊共识层中心化风险及优化方案
+* 所选赛道：Open Research
+* 项目照片：
+* 简介：
+* 
 # 31 PADO
 * 简介：zk-snarks/zk-starks是目前大家比较熟悉的NIZK技术用于扩容和隐私保护。我们想采用另一种不太为人熟知的zk技术——交互式零知识证明(IZK)，来提供用户数据的隐私保护认证。
 * 目标：项目将搭建一个端到端的个人用户数据上链流程，个人用户可以获取其已有的web data, 通过IZK服务实现隐私保护的业务逻辑验证，生成一个数据证明，并发布到链上。
