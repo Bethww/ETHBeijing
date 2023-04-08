@@ -488,7 +488,8 @@ https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/EtherWatchdog.mp4
 * 目标：完成demo开发和展示
 * 是否招募队员：否
 # 30 PKUSZ Blockchain DAO
-* 简介：LSD中心化风险解决方案
+* 项目名称：以太坊共识层中心化风险研究及优化方案
+* 所选赛道：Open Research
 * 目标：产出研究分析报告和EIP
 * 是否招募队员：否
 # 31 PADO
